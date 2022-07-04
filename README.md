@@ -1,7 +1,7 @@
 # Praktikum: 1
 ## What is wrong with this visualization
 
-!["Nussbaumer Knaflic - Storytelling with Data, Wiley, 2015"](./1.png)
+!["Nussbaumer Knaflic - Storytelling with Data, Wiley, 2015"](/images/1.png)
 > Story: You manage an IT-team. Your team receives tickets or technical issues. In the past year, a few of the team members
 left and you decided at that time not to replace them. You’ve been asked about your hiring needs for the coming year. You
 see that there is some evidence your team’s productivity is suffering and now want to create a visualization as a basis for your
