@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Praktikum: 1
+## What is wrong with this visualization
 
-You can use the [editor on GitHub](https://github.com/Qubut/qubut.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+!["Nussbaumer Knaflic - Storytelling with Data, Wiley, 2015"](./1.png)
+> Story: You manage an IT-team. Your team receives tickets or technical issues. In the past year, a few of the team members
+left and you decided at that time not to replace them. You’ve been asked about your hiring needs for the coming year. You
+see that there is some evidence your team’s productivity is suffering and now want to create a visualization as a basis for your
+hiring request.
+What improvements could help tell a better story with the data? Draw a better visualization with pen and paper (or a
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As shown the visualization has some issues
 
-### Markdown
+1. the unnecessary use of the decimal comma in numbering the y-axis scale
+2. changing the scale of the y-axis to beginn from 100 instead of 0 
+will show these volume differences clearer, that on a normal scale might appear normal or small
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Datasources
 
-```markdown
-Syntax highlighted code block
+using [https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/) are the following datasets collected:
+## COVID-19 (Robert-Koch-Institute):
 
-# Header 1
-## Header 2
-### Header 3
+[infection cases by state](https://data.world/liz-friedman/covid-19-in-germany/file/cases-rki-by-ags.csv")
 
-- Bulleted
-- List
+[death cases by state](https://data.world/liz-friedman/covid-19-in-germany/file/deaths-rki-by-ags.csv">deaths-rki-by-ags)
+## World – Health and Development Indicators
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Qubut/qubut.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
