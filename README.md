@@ -23,4 +23,5 @@ using [https://datasetsearch.research.google.com/](https://datasetsearch.researc
 
 [death cases by state](https://data.world/liz-friedman/covid-19-in-germany/workspace/file?filename=deaths-rki-by-state.csv)
 ## World – Health and Development Indicators
-
+[Infant mortality rate from Nauru](https://data.humdata.org/dataset/d8fbda0c-942b-40f5-a2c3-d70e1c58d044/resource/bb9fca7d-eb22-47d5-ac9b-9d437beede3f/download/health_indicators_nru.csv)
+[Malaria: Children aged <5 years sleeping under insecticide-treated nets (%), Children aged <5](https://data.humdata.org/dataset/d8fbda0c-942b-40f5-a2c3-d70e1c58d044/resource/af6aaa84-2af9-4a48-9391-ec6e2b34315b/download/malaria_indicators_nru.csv)
