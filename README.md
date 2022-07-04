@@ -1,6 +1,4 @@
-# Praktikum: 1
-
-## What is wrong with this visualization
+# What is wrong with this visualization
 
 ![](/images/1.png)
 *Nussbaumer Knaflic - Storytelling with Data, Wiley, 2015*
@@ -16,7 +14,7 @@ As shown the visualization has some issues
 2. changing the scale of the y-axis to beginn from 100 instead of 0 
 will show these volume differences clearer, that on a normal scale might appear normal or small
 
-## Datasources
+# Datasources
 
 using [https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/) are the following datasets collected:
 ## COVID-19 (Robert-Koch-Institute):
