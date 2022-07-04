@@ -19,8 +19,8 @@ will show these volume differences clearer, that on a normal scale might appear 
 using [https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/) are the following datasets collected:
 ## COVID-19 (Robert-Koch-Institute):
 
-[infection cases by state](https://data.world/liz-friedman/covid-19-in-germany/file/cases-rki-by-ags.csv")
+[infection cases by state](https://data.world/liz-friedman/covid-19-in-germany/workspace/file?filename=cases-rki-by-state.csv)
 
-[death cases by state](https://data.world/liz-friedman/covid-19-in-germany/file/deaths-rki-by-ags.csv">deaths-rki-by-ags)
+[death cases by state](https://data.world/liz-friedman/covid-19-in-germany/workspace/file?filename=deaths-rki-by-state.csv)
 ## World – Health and Development Indicators
 
